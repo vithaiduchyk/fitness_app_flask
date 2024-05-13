@@ -1,0 +1,15 @@
+/register [get, post] - done
+/login [get, post] - done
+/user [get, put, post] - done
+/user/funds [get, post] - done
+/user/reservations [get, post] - done
+/user/reservations/<reservation_id> [get, put, delete] - done
+/user/checkout [get, post, put] - done
+/fitness_center [get] - done
+/fitness_center/<id> [get] - done
+/fitness_center/<id>/trainer [get] - done
+/fitness_center/<id>/trainer/<trainer_id> [get] - done
+/fitness_center/<id>/trainer/<trainer_id>/rating [get, post, put] - done
+/fitness_center/<id>/services [get] - done
+/fitness_center/<id>/services/<service_id> [get] - done
+/fitness_center/<id>/loyalty_programs [get, put] - done
